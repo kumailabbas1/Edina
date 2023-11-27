@@ -1,0 +1,5 @@
+clean code :
+=>. When you are declear class it should be relevent.
+=>. Make sure to use tags for there purposes.
+=>. Make responsive.
+<Adress>

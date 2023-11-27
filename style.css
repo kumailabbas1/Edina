@@ -711,3 +711,15 @@ h3 {
   grid-auto-flow: 10px;
   flex-direction: column;
 }
+
+@media (max-width:1200px) {
+  .dashboard {
+    padding: 20px ;
+    display: none;
+    background-color: #0b0f13;
+  }
+ .content-container{
+  padding: 20px 1px;
+ }
+
+}
